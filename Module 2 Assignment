@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <!--this is the tab title in the browser-->
+      <title>Module 2 Assignment by Deanne Dawes</title>
+      <meta name="description"
+        content="Coursera Module 2 Assignment">  
+</head>
+<body>
+    <section class="page-header">
+        <!--This is the title on the main page-->
+        <h1 style="text-align: center">Our Menu</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <p>this is the Chicken Menu</p>
+        </div>
+        <div class="col-lg-6">
+            <p>This is the Beef Menu</p>
+        <div>
+    </div>        
+    <div class="row">       
+        <div class="col-lg-6">
+            <p>This is the sushi menu</p>
+        </div>
+    </div>
+</div>
+</html>
